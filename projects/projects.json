@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Smart Irrigation System",
+    "description": "An IoT-based irrigation project optimizing water usage.",
+    "image": "irrigation.jpg",
+    "link": "https://github.com/sneha/irrigation"
+  },
+  {
+    "title": "AI Car Parking System",
+    "description": "AI-powered system for efficient parking space detection.",
+    "image": "parking.jpg",
+    "link": "https://github.com/sneha/parking"
+  }
+]
